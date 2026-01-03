@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sanuka Dinwara</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
+<br/> 
+
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanukadinwara&label=Profile%20views&color=0e75b6&style=flat" alt="sanukadinwara" /> </p>
